@@ -7,7 +7,7 @@ import { Router } from '@angular/router';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular ' + VERSION.major;
+  name = 'Terreni 5G ' + VERSION.major;
 
   constructor( private router: Router) { 
     
